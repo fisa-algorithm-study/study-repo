@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Jhcki222"><b>이종혁</b></td>
-    td align="center"><a href="https://github.com/Yang-Chaeyeon"><b>양채연</b></td>
+    <td align="center"><a href="https://github.com/Yang-Chaeyeon"><b>양채연</b></td>
     <td align="center"><a href="https://github.com/JBL28"><b>이정복</b></td>
     <td align="center"><a href="https://github.com/wo-oaw"><b>임건애</b></td>
     <td align="center"><a href="https://github.com/woni-jo"><b>조원희</b></td>
