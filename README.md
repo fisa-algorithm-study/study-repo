@@ -14,12 +14,12 @@
     <td align="center"><a href="https://github.com/Ju-Min-Kyung"><img src="https://avatars.githubusercontent.com/Ju-Min-Kyung" width="150px;" alt=""></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Seongho0503"><b>이종혁</b></td>
-    <td align="center"><a href="https://github.com/Mosquito0076"><b>양채연</b></td>
-    <td align="center"><a href="https://github.com/Juwon-Kiim"><b>이정복</b></td>
-    <td align="center"><a href="https://github.com/cssopy"><b>임건애</b></td>
-    <td align="center"><a href="https://github.com/lea-hwang"><b>조원희</b></td>
-    <td align="center"><a href="https://github.com/lea-hwang"><b>주민경</b></td>
+    <td align="center"><a href="https://github.com/Jhcki222"><b>이종혁</b></td>
+    td align="center"><a href="https://github.com/Yang-Chaeyeon"><b>양채연</b></td>
+    <td align="center"><a href="https://github.com/JBL28"><b>이정복</b></td>
+    <td align="center"><a href="https://github.com/wo-oaw"><b>임건애</b></td>
+    <td align="center"><a href="https://github.com/woni-jo"><b>조원희</b></td>
+    <td align="center"><a href="https://github.com/Ju-Min-Kyung"><b>주민경</b></td>
   </tr>
   <tr> 
     <td align="center">Python</td>
@@ -65,15 +65,15 @@
 -   Ex : [BOJ] 이종혁 / 1주차
 ```
 
--   리뷰 방식 - 잘한 것은 과감하게 칭찬하기 Ex.) ~님, 배열 인덱싱 한거 엄청 깔끔하네요. <br/>
--   다른 풀이 방법이 있으면 간단히 소개 Ex.) 이 문제는 재귀함수로 풀면 더 간단할거 같아요. <br/>
--   개선 필요한 부분 구체적으로 설명 Ex.) 통과는 잘 됐는데, 시간 복잡도 측면에서 O(N^2) → O(N) 개선 가능성 있어 보여요.
+-   리뷰 방식 - 잘한 것은 과감하게 칭찬하기 Ex) ~님, 배열 인덱싱 한거 엄청 깔끔하네요. <br/>
+-   다른 풀이 방법이 있으면 간단히 소개 Ex) 이 문제는 재귀함수로 풀면 더 간단할거 같아요. <br/>
+-   개선 필요한 부분 구체적으로 설명 Ex) 통과는 잘 됐는데, 시간 복잡도 측면에서 O(N^2) → O(N) 개선 가능성 있어 보여요.
     <br />
 
 ## ✅ 파일명 규칙
 
 ```
--   소스코드 파일 명: [문제 플랫폼]_문제이름_난이도_번호(Optional)
+-   소스코드 파일 명: [문제 플랫폼] 문제이름_번호(Optional)_난이도
     Ex. [BOJ] 사탕게임_3085_브론즈3.java , [PGS] 베스트엘범_Lv3.py
 ```
 
