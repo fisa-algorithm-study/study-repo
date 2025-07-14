@@ -102,7 +102,7 @@ git commit -m "[PGS] 이종혁 / Hello World / 브론즈5 / 10 "
                           ├── 💾[BOJ] ....java
                           ├── 💾[PGS] ....jva
        |      └── 📂 [Week 3]트리
-       ├── 📂 임건
+       ├── 📂 임건애
 
 . . .
 
