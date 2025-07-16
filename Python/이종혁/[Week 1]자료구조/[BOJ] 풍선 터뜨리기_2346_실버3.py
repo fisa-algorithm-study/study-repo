@@ -18,11 +18,14 @@ nums = list(map(int, input().split()))
 
 balloons = [(i + 1, move) for i, move in enumerate(nums)]  # (번호, 이동수)
 #  (1,3) (2,2) (3,1) (4,-3) (5,-1)
+print(balloons)
 result = []
+
 index = 0  # 현재 가리키는 인덱스
 
 while balloons:
     num, move = balloons.pop(index)  # 풍선 터뜨리기
+
     result.append(num)
 
     if not balloons:
