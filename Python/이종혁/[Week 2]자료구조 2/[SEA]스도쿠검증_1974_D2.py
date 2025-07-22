@@ -5,7 +5,7 @@ T = int(input())
 # 여러개의 테스트 케이스가 주어지므로, 각각을 처리합니다.
 
 # Set은 중복 요소를 제거한다.
-# 아이디어는 각각의 행, 열, 3x3 행렬을 set에 넣고, 요소가 9가 아니면 올바르지 않은 스도쿠(0반환)
+# 아이디어는 각각의 행, 열, 3x3 행렬을 set에 넣고, 요소가 9가 아니면 올바르지 않은 스도쿠(answer = 0)
 for test_case in range(1, T + 1):
     # 2차원 list 생성
     board = [list(map(int, input().split())) for _ in range(9)] 
