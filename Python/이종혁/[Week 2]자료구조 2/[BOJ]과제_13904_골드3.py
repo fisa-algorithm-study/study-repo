@@ -13,7 +13,7 @@ sum_score = 0
 
 schedule = [0] * 1001  # 0~1000 인덱스 배열 선언(입력 조건 1<=d<=1000)
 for deadline, score in d_w:
-    # deadline부터 거꾸로 반복 (4, 3, 2, 1 ,2 , 1)
+    # deadline부터 거꾸로 반복 (4, 3, 2, 1 ,2 ,1...)
     for day in range(deadline, 0, -1):
         # 아직 아무것도 안한 날이라면,
         if(schedule[day] == 0):
