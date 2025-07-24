@@ -18,7 +18,7 @@ nums = list(map(int, input().split()))
 
 balloons = [(i + 1, move) for i, move in enumerate(nums)]  # (번호, 이동수)
 #  (1,3) (2,2) (3,1) (4,-3) (5,-1)
-print(balloons)
+# print(balloons)
 result = []
 
 index = 0  # 현재 가리키는 인덱스
