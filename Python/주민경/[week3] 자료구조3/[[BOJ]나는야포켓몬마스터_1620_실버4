@@ -1,0 +1,14 @@
+N, M =  map(int, input().split())
+poketmon_list = [] # 숫자가 나올때 인덱스르 포켓몬 찾기 위한 배열
+poketmon_set = {} # 단어가 나올 떄 단어로 인덱스를 찾기 위한 딕셔너리
+for i in range(N):
+  p = input()
+  poketmon_list.append(p)
+  poketmon_set[p] = i # 포켓몬: 인덱스로 딕셔너리를 만듦
+
+for j in range(M):
+  value = input()
+  if not value.isdigit(): # 문자열이라면, 숫자가 아니라면
+    print(poketmon_set[value] + 1) # 딕셔너리에서 인덱스 값 출력
+  else:
+    print(poketmon_list[int(value)-1]) # 인덱스로 포켓몬 출력
