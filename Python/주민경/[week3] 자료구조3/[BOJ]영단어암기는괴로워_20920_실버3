@@ -1,0 +1,18 @@
+import sys
+from collections import Counter 
+N, M = map(int, input().split())
+words = []
+for _ in range(N):
+    word = sys.stdin.readline().rstrip()
+    if len(word) >= M: # 단어의 길이가 M보다 크거나 같아야 함. 
+        words.append(word)
+
+counter = Counter(words) # 단어의 출현 빈도 체크 
+words.sort(key=lambda x: (-counter[x], -len(x), x))
+# 우선순위 - 빈도 수 내림차순, 단어의 길이 내림차순, 알파벳 순서 
+
+temp = set()  # 중복 값 제거하기 위함. 
+for w in words:
+    if w not in temp:
+        print(w)
+    temp.add(w)
