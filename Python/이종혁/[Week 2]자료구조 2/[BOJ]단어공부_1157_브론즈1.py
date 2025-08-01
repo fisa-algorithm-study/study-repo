@@ -11,7 +11,6 @@ frequency = {}
 
 # 문자열을 순회하며 각각 문자에 대해
 for i in upperStr:
-    # 
     if i in frequency:
         frequency[i] += 1
     else:

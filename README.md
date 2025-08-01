@@ -12,6 +12,8 @@
     <td align="center"><a href="https://github.com/wo-oaw"><img src="https://avatars.githubusercontent.com/wo-oaw" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/woni-jo"><img src="https://avatars.githubusercontent.com/woni-jo" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/Ju-Min-Kyung"><img src="https://avatars.githubusercontent.com/Ju-Min-Kyung" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/wjddydwns"><img src="https://avatars.githubusercontent.com/wjddydwns" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/blueoxygens"><img src="https://avatars.githubusercontent.com/blueoxygens" width="150px;" alt=""></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Jhcki222"><b>이종혁</b></td>
@@ -20,6 +22,8 @@
     <td align="center"><a href="https://github.com/wo-oaw"><b>임건애</b></td>
     <td align="center"><a href="https://github.com/woni-jo"><b>조원희</b></td>
     <td align="center"><a href="https://github.com/Ju-Min-Kyung"><b>주민경</b></td>
+    <td align="center"><a href="https://github.com/wjddydwns"><b>정용준</b></td>
+    <td align="center"><a href="https://github.com/blueoxygens"><b>김현진</b></td>
   </tr>
   <tr> 
     <td align="center">Python</td>
@@ -27,6 +31,8 @@
     <td align="center">Java<y</td>
     <td align="center">Java</td>
     <td align="center">Java</td>
+    <td align="center">Python</td>
+    <td align="center">Python</td>
     <td align="center">Python</td>
   </tr> 
 </table>
@@ -135,7 +141,9 @@ git commit -m "[PGS] 이종혁 / Hello World / 브론즈5 / 10 "
 
 > 문제는 [Solved.ac](https://solved.ac/), [코딩테스트 대비 문제집](https://github.com/tony9402/baekjoon) 및 [프로그래머스](https://programmers.co.kr/)를 참고한다.
 
-| 주차  | 날짜     | 기출 유형                 | 문제명                                                                                                                                          |                                            난이도                                            | 담당자 |
-| ----- | -------- | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------: | :----: |
-| Week1 | 25.07.14 | Data Structure(자료구조)  | [풍선 터뜨리기](https://www.acmicpc.net/problem/2346)<br />[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)<br /> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br/> Lv.2 | 이종혁 |
-| Week2 | 25.07.21 | Data Structure2(자료구조) | [단어 공부](https://www.acmicpc.net/problem/1157)<br />[스도쿠 검증](https://shorturl.at/Lu8fc)<br />[과제](https://www.acmicpc.net/problem/13904)<br /> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"><br/>D2 <br/><img height="20px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>                                                                                              | 임건애 |
+| 주차  | 날짜     | 기출 유형                 | 문제명                                                                                                                                                                    |                                                                                     난이도                                                                                      | 담당자 |
+| ----- | -------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: |
+| Week1 | 25.07.14 | Data Structure(자료구조)  | [풍선 터뜨리기](https://www.acmicpc.net/problem/2346)<br />[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)<br />                           |                                          <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br/> Lv.2                                           | 이종혁 |
+| Week2 | 25.07.21 | Data Structure2(자료구조) | [단어 공부](https://www.acmicpc.net/problem/1157)<br />[스도쿠 검증](https://shorturl.at/Lu8fc)<br />[과제](https://www.acmicpc.net/problem/13904)<br />                  | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"><br/>D2 <br/><img height="20px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 임건애 |
+| Week3 | 25.07.30 | Data Structure3(자료구조) | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)<br />[영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920)<br />                              |                                                                                실버 4<br/>실버 3                                                                                | 조원희 |
+| Week4 | 25.08.06 | Tree(트리)                | [트리인가?](https://www.acmicpc.net/problem/6416)<br />[트리 순회](https://www.acmicpc.net/problem/1991)<br />[양 구출 작전](https://www.acmicpc.net/problem/16437)<br /> |                                                                      Unrated <br/> 실버1 <br/> 골드 3<br/>                                                                      | 이정복 |
