@@ -13,7 +13,6 @@ words_list = [sys.stdin.readline().strip() for i in range(word_count)]
 more_words_list = []
 
 # 사전 오름차순 정렬
-words_list.sort()
 
 # 외울 길이 이상 리스트 append
 for word in words_list:
@@ -31,8 +30,8 @@ for word in more_words_list:
         frequency[word] = 1
 
 # 정렬:
-# 1) 등장 횟수 많은 순 (-frequency[word])
-# 2) 단어 길이 긴 순 (-len(word))
+# 1) 등장 횟수 내림차순 (-frequency[word])
+# 2) 단어 길이 내림차순 (-len(word))
 # 3) 사전순 오름차순
 
 sorted_words = sorted(frequency.keys(), key=lambda x: (-frequency[x], -len(x), x))
