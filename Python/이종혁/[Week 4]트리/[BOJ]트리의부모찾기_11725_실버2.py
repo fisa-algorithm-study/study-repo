@@ -7,12 +7,12 @@ from collections import deque
 # 정점 개수 입력
 N = int(input())
 
-# 인접 리스트(그래프) 초기화
-# N+1 크기로 만드는 이유: 노드 번호가 1부터 시작하기 때문에 인덱스를 맞추기위해
+# graph 초기화
+# N+1 크기로 만드는 이유 => 노드 번호가 1부터 시작하기 때문에 인덱스를 맞추기위해
 graph = [[] for _ in range(N+1)]
 
 # N-1개의 간선을 입력받아 양방향 그래프 구성
-# 트리는 간선이 (노드개수-1)개 존재
+# 트리는 edge가 (노드개수-1)개 존재
 for i in range(N-1):
     A, B = map(int, input().split())
     # 양방향 연결
