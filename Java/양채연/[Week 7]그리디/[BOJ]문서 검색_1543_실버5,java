@@ -1,0 +1,22 @@
+import javax.sound.midi.Soundbank;
+import java.io.*;
+import java.util.*;
+
+public class Main {
+
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        String docs = br.readLine();
+        String search = br.readLine();
+        int cnt = 0;
+        int idx = 0;
+
+
+        while ((idx = docs.indexOf(search, idx)) != -1) {
+            cnt++;
+            idx += search.length();
+        }
+        System.out.println(cnt);
+    }
+
+}
